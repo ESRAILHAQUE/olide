@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "estate_title": "Sunny Villa Retreat",
+    "segment_name": "Residential",
+    "description": "Escape to your own private paradise at the Sunny Villa Retreat. This bright and spacious villa is nestled in a serene countryside setting, offering tranquility and luxury in equal measure. The expansive garden is perfect for outdoor entertaining or simply relaxing amidst the lush greenery. Dive into the crystal-clear waters of your private pool, or unwind with a glass of wine while soaking in the stunning sunset views. With four bedrooms, three bathrooms, and ample living space, this villa provides the perfect blend of comfort and elegance.",
+    "price": "$750,000",
+    "status5": "sale",
+    "area": "3000 sq ft",
+    "location": "Countryside",
+    "facilities": [
+      "living room",
+      "kitchen",
+      "garden",
+      "swimming pool"
+    ],
+    "image": "https://i.ibb.co/VgjfHRF/bellbird-house-bower-architecture-19.jpg",
+    "view_property_button": "View Property",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "garage": true,
+    "year_built": 2010
+  },
+  {
+    "id": 2,
+    "estate_title": "Charming Cottage by the Lake",
+    "segment_name": "Residential",
+    "description": "Indulge in the serene beauty of lakeside living at the Charming Cottage by the Lake. Nestled amidst picturesque surroundings, this quaint cottage offers the perfect escape from the hustle and bustle of city life. Step inside to discover a cozy interior complete with a crackling fireplace, ideal for warming up on chilly evenings. Enjoy breathtaking views of the lake from every window, or take a leisurely stroll along the tranquil shoreline. With two bedrooms, one bathroom, and rustic charm in abundance, this cottage is the epitome of lakeside luxury.",
+    "price": "$400,000",
+    "status5": "sale",
+    "area": "1200 sq ft",
+    "location": "Lakefront",
+    "facilities": [
+      "living room",
+      "kitchen",
+      "fireplace",
+      "lake view"
+    ],
+    "image": "https://i.ibb.co/9y8gsyp/Carterwilliamson-Architects-Spiegel-Haus-03.jpg",
+    "view_property_button": "View Property",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "garage": false,
+    "year_built": 1950
+  },
+  {
+    "id": 3,
+    "estate_title": "Modern Urban Loft",
+    "segment_name": "Residential",
+    "description": "Experience urban living at its finest in the Modern Urban Loft. Situated in the heart of the city, this contemporary loft-style residence boasts sleek design and modern amenities. The open floor plan creates a sense of spaciousness, while industrial chic touches add character and style. With one bedroom, two bathrooms, and close proximity to dining, shopping, and entertainment options, this loft offers the ultimate urban lifestyle.",
+    "price": "$550,000",
+    "status5": "rent",
+    "area": "1600 sq ft",
+    "location": "City Center",
+    "facilities": [
+      "living room",
+      "kitchen",
+      "open floor plan"
+    ],
+    "image": "https://i.ibb.co/WkxdRcC/14.jpg",
+    "view_property_button": "View Property",
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "garage": true,
+    "year_built": 2015
+  },
+  {
+    "id": 4,
+    "estate_title": "Rustic Mountain Retreat",
+    "segment_name": "Residential",
+    "description": "Embrace the natural beauty of the mountains at the Rustic Mountain Retreat. Tucked away in a secluded mountainside setting, this cozy retreat offers the perfect blend of comfort and tranquility. Curl up by the wood-burning fireplace and enjoy panoramic views of the surrounding landscape, or explore the great outdoors with hiking trails right at your doorstep. With three bedrooms, two and a half bathrooms, and rustic charm in abundance, this mountain retreat is the perfect place to unwind and reconnect with nature.",
+    "price": "$600,000",
+    "status5": "sale",
+    "area": "2500 sq ft",
+    "location": "Mountainside",
+    "facilities": [
+      "living room",
+      "kitchen",
+      "fireplace",
+      "mountain view"
+    ],
+    "image": "https://i.ibb.co/9vGTJv9/02.jpg",
+    "view_property_button": "View Property",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "garage": true,
+    "year_built": 1998
+  },
+  {
+    "id": 5,
+    "estate_title": "Seaside Luxury Condo",
+    "segment_name": "Residential",
+    "description": "Live the life of luxury by the sea at the Seaside Luxury Condo. Located in a prestigious waterfront community, this elegant condo offers resort-style amenities and breathtaking ocean views. Step out onto your private oceanfront balcony and watch the waves roll in, or take a dip in the sparkling swimming pool. With three bedrooms, three and a half bathrooms, and a spacious interior flooded with natural light, this condo provides the perfect blend of comfort and sophistication.",
+    "price": "$900,000",
+    "status5": "rent",
+    "area": "2000 sq ft",
+    "location": "Seaside",
+    "facilities": [
+      "living room",
+      "kitchen",
+      "oceanfront balcony",
+      "swimming pool"
+    ],
+    "image": "https://i.ibb.co/PjQm45L/stringio-1.png",
+    "view_property_button": "View Property",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "garage": true,
+    "year_built": 2005
+  },
+  {
+    "id": 6,
+    "estate_title": "Historic Townhouse Charm",
+    "segment_name": "Residential",
+    "description": "Step back in time with the Historic Townhouse Charm. Located in the heart of the city's historic district, this meticulously restored townhouse retains all the charm and character of its original architecture. From the elegant facade to the grand interior spaces, every detail exudes timeless elegance. With four bedrooms, two bathrooms, and a private garage, this townhouse offers the perfect combination of historic charm and modern convenience.",
+    "price": "$850,000",
+    "status5": "sale",
+    "area": "2800 sq ft",
+    "location": "Historic District",
+    "facilities": [
+      "living room",
+      "kitchen",
+      "historic architecture"
+    ],
+    "image": "https://i.ibb.co/KWwSWYB/stringio.png",
+    "view_property_button": "View Property",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "garage": true,
+    "year_built": 1920
+  }
+]
